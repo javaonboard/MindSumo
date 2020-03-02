@@ -1,4 +1,4 @@
-package com.capital.sumo.MindSumo;
+package com.capital.sumo.mindsumo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
